@@ -9,6 +9,6 @@ class Ninja < Fighter
 		enemy.lose_health(self.power, enemy.health)
 	end
 end
-
+# This is an edit
 
 
