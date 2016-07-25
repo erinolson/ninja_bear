@@ -10,5 +10,4 @@ class Ninja < Fighter
 	end
 end
 # This is an edit
-
-
+# This is another
